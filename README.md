@@ -1,2 +1,3 @@
 # coco-dental
-coco-dental is to parse coco format and crop teeth images accordingly.
+coco-dental is to parse COCO JSON format and crop teeth images accordingly.
+
